@@ -1,0 +1,27 @@
+{
+  "name": "meeting-to-delivery",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Meeting follow-through and weekly delivery briefs: transcript to report, tasks, Jira plan and accountability.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "cli": "tsx src/cli.ts",
+    "meeting": "tsx src/cli.ts meeting",
+    "brief": "tsx src/cli.ts brief",
+    "demo": "tsx scripts/demo.ts",
+    "test": "tsx scripts/test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "fflate": "^0.8.2",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

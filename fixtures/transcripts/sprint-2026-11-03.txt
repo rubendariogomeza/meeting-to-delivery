@@ -1,0 +1,33 @@
+Reunión: Revisión de sprint — Plataforma de salud
+Fecha: 2026-11-03
+Asistentes: Ana Torres, Luis Mejía, Camila Ríos, Diego Salazar, Rubén Gómez
+
+[00:00:10] Rubén: Buenas tardes. El objetivo de hoy es revisar el avance del sprint y cerrar compromisos.
+[00:00:40] Ana: El pipeline de ETL terminó la semana con dos fuentes nuevas conectadas.
+[00:01:15] Luis: El backend está estable, pero el esquema de facturación sigue sin migrar.
+[00:02:00] Rubén: Acordamos que el despliegue de noviembre no incluye el módulo de reportes.
+[00:02:30] Camila: Los permisos de la API están en revisión de seguridad.
+[00:03:10] Diego: El cliente pidió mover la prueba conjunta.
+[00:03:45] Rubén: Decisión: mantenemos el esquema actual de facturación hasta enero.
+[00:04:20] Ana: Se encontraron catorce códigos sin mapeo en la nueva fuente.
+[00:05:00] Rubén: Ana se encarga de revisar el mapeo de códigos antes del 10 de noviembre.
+[00:05:30] Luis: Necesitamos un plan de migración con etapas claras.
+[00:06:00] Rubén: TAREA: preparar el plan de migración del esquema de facturación — responsable: Luis — fecha: 20 de noviembre
+[00:06:40] Camila: La documentación de la API está desactualizada.
+[00:07:10] Rubén: Camila revisará los permisos de la API antes del viernes.
+[00:07:50] Diego: Si la prueba se mueve, hay que ajustar el cronograma.
+[00:08:20] Rubén: Hay que documentar el rollback del pipeline de ETL.
+[00:08:50] Camila: Puedo preparar el diagrama de arquitectura.
+[00:09:20] Rubén: Diego va a coordinar la prueba con el cliente el 18 de noviembre.
+[00:10:00] Luis: El plan de migración debería incluir rollback y validación.
+[00:10:30] Rubén: Luis se encarga de preparar el plan de migración del esquema de facturación.
+[00:11:00] Rubén: Yo me encargo de actualizar el tablero de riesgos esta semana.
+[00:11:40] Ana: Falta el guion de capacitación para los usuarios nuevos.
+[00:12:10] Rubén: Ana preparará el guion de capacitación la próxima semana.
+[00:12:40] Luis: También necesitamos criterios de aceptación del reporte.
+[00:13:10] Rubén: Luis definirá los criterios de aceptación del reporte el 12 de noviembre.
+[00:13:40] Camila: Las métricas de latencia están listas para enviar.
+[00:14:10] Rubén: Camila enviará las métricas de latencia hoy; es urgente.
+[00:14:40] Rubén: Quedamos en revisar el alcance con el cliente antes de la próxima reunión.
+[00:15:10] Diego: Decidimos no abrir el piloto a más de tres clínicas.
+[00:15:40] Rubén: Gracias. Cierro con el informe y las tareas en Jira.

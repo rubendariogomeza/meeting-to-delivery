@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ana Torres",
+    "email": "ana.torres@example.com",
+    "aliases": ["Ana"]
+  },
+  {
+    "name": "Luis Mejía",
+    "email": "luis.mejia@example.com",
+    "aliases": ["Luis"]
+  },
+  {
+    "name": "Camila Ríos",
+    "email": "camila.rios@example.com",
+    "aliases": ["Camila"]
+  },
+  {
+    "name": "Diego Salazar",
+    "email": null,
+    "aliases": ["Diego"]
+  },
+  {
+    "name": "Rubén Gómez",
+    "email": "organizer@example.com",
+    "aliases": ["Rubén", "Ruben"]
+  }
+]

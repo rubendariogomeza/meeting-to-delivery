@@ -1,0 +1,23 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Runtime output
+runs/
+dist/
+
+# Secrets and local state
+secrets/
+*.token.json
+*.log
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+.venv/
+tsconfig.tsbuildinfo
+
+# OS artifacts
+Thumbs.db
+.DS_Store

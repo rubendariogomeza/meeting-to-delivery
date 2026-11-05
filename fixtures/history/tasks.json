@@ -1,0 +1,351 @@
+[
+  {
+    "id": "T-101",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Conectar la segunda fuente de ETL",
+    "description": "Conectar la segunda fuente de ETL.",
+    "owner": { "name": "Ana Torres", "email": "ana.torres@example.com" },
+    "due": { "date": "2026-10-30", "raw": "30 de octubre" },
+    "priority": "media",
+    "sourceQuote": "Ana se encarga de conectar la segunda fuente.",
+    "confidence": "alta",
+    "status": "cerrada",
+    "updatedAt": "2026-11-04T16:00:00Z",
+    "history": [
+      { "at": "2026-10-06T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-10-20T15:00:00Z", "status": "en_progreso", "note": "Inicio de trabajo." },
+      { "at": "2026-11-04T16:00:00Z", "status": "cerrada", "note": "Fuente en producción." }
+    ]
+  },
+  {
+    "id": "T-102",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Corregir el cálculo de copagos",
+    "description": "Corregir el cálculo de copagos.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-10-25", "raw": "25 de octubre" },
+    "priority": "alta",
+    "sourceQuote": "Luis corrige el cálculo de copagos.",
+    "confidence": "alta",
+    "status": "cerrada",
+    "updatedAt": "2026-10-28T18:00:00Z",
+    "history": [
+      { "at": "2026-10-05T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-10-15T15:00:00Z", "status": "en_progreso", "note": "" },
+      { "at": "2026-10-28T18:00:00Z", "status": "cerrada", "note": "Validado con el cliente." }
+    ]
+  },
+  {
+    "id": "T-103",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Actualizar la documentación de la API",
+    "description": "Actualizar la documentación de la API.",
+    "owner": { "name": "Camila Ríos", "email": "camila.rios@example.com" },
+    "due": { "date": "2026-10-31", "raw": "31 de octubre" },
+    "priority": "media",
+    "sourceQuote": "Camila actualiza la documentación de la API.",
+    "confidence": "alta",
+    "status": "cerrada",
+    "updatedAt": "2026-11-02T11:00:00Z",
+    "history": [
+      { "at": "2026-10-08T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-10-22T15:00:00Z", "status": "en_progreso", "note": "" },
+      { "at": "2026-11-02T11:00:00Z", "status": "cerrada", "note": "Publicada en el portal interno." }
+    ]
+  },
+  {
+    "id": "T-104",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Migrar el formulario de admisión",
+    "description": "Migrar el formulario de admisión.",
+    "owner": { "name": "Diego Salazar", "email": null },
+    "due": { "date": "2026-10-20", "raw": "20 de octubre" },
+    "priority": "media",
+    "sourceQuote": "Diego migra el formulario de admisión.",
+    "confidence": "media",
+    "status": "cerrada",
+    "updatedAt": "2026-10-15T17:00:00Z",
+    "history": [
+      { "at": "2026-10-01T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-10-10T15:00:00Z", "status": "en_progreso", "note": "" },
+      { "at": "2026-10-15T17:00:00Z", "status": "cerrada", "note": "Desplegado en pruebas." }
+    ]
+  },
+  {
+    "id": "T-105",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Migrar el esquema de facturación",
+    "description": "Migrar el esquema de facturación.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-11-20", "raw": "20 de noviembre" },
+    "priority": "alta",
+    "sourceQuote": "Luis se encarga del plan de migración del esquema de facturación.",
+    "confidence": "alta",
+    "status": "en_progreso",
+    "updatedAt": "2026-11-04T09:00:00Z",
+    "history": [
+      { "at": "2026-10-06T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-11-04T09:00:00Z", "status": "en_progreso", "note": "Primera etapa en curso." }
+    ]
+  },
+  {
+    "id": "T-106",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Revisar el mapeo de códigos clínicos",
+    "description": "Revisar el mapeo de códigos clínicos.",
+    "owner": { "name": "Ana Torres", "email": "ana.torres@example.com" },
+    "due": { "date": "2026-11-10", "raw": "10 de noviembre" },
+    "priority": "media",
+    "sourceQuote": "Ana se encarga de revisar el mapeo de códigos.",
+    "confidence": "alta",
+    "status": "en_progreso",
+    "updatedAt": "2026-11-03T14:00:00Z",
+    "history": [
+      { "at": "2026-10-20T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-11-03T14:00:00Z", "status": "en_progreso", "note": "Catorce códigos identificados." }
+    ]
+  },
+  {
+    "id": "T-107",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Definir criterios de aceptación del reporte",
+    "description": "Definir criterios de aceptación del reporte.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-11-12", "raw": "12 de noviembre" },
+    "priority": "media",
+    "sourceQuote": "Luis definirá los criterios de aceptación.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-15T15:00:00Z",
+    "history": [
+      { "at": "2026-10-15T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-108",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Documentar el rollback del pipeline",
+    "description": "Documentar el rollback del pipeline.",
+    "owner": { "name": "sin asignar", "email": null },
+    "due": { "date": null, "raw": null },
+    "priority": "media",
+    "sourceQuote": "Hay que documentar el rollback del pipeline.",
+    "confidence": "baja",
+    "status": "abierta",
+    "updatedAt": "2026-10-20T15:00:00Z",
+    "history": [
+      { "at": "2026-10-20T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-109",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Coordinar la prueba con el cliente",
+    "description": "Coordinar la prueba con el cliente.",
+    "owner": { "name": "Diego Salazar", "email": null },
+    "due": { "date": "2026-11-18", "raw": "18 de noviembre" },
+    "priority": "media",
+    "sourceQuote": "Diego coordina la prueba con el cliente.",
+    "confidence": "media",
+    "status": "abierta",
+    "updatedAt": "2026-11-02T15:00:00Z",
+    "history": [
+      { "at": "2026-10-20T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-110",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Revisar permisos de la API con seguridad",
+    "description": "Revisar permisos de la API con seguridad.",
+    "owner": { "name": "Camila Ríos", "email": "camila.rios@example.com" },
+    "due": { "date": "2026-11-06", "raw": "6 de noviembre" },
+    "priority": "alta",
+    "sourceQuote": "Los permisos de la API están en revisión de seguridad.",
+    "confidence": "alta",
+    "status": "bloqueada",
+    "updatedAt": "2026-10-12T15:00:00Z",
+    "history": [
+      { "at": "2026-10-05T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-10-12T15:00:00Z", "status": "bloqueada", "note": "Esperando respuesta de seguridad." }
+    ]
+  },
+  {
+    "id": "T-111",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Preparar el guion de capacitación",
+    "description": "Preparar el guion de capacitación.",
+    "owner": { "name": "Ana Torres", "email": "ana.torres@example.com" },
+    "due": { "date": "2026-11-13", "raw": "13 de noviembre" },
+    "priority": "media",
+    "sourceQuote": "Ana preparará el guion de capacitación.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-30T15:00:00Z",
+    "history": [
+      { "at": "2026-10-30T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-112",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Actualizar el tablero de riesgos",
+    "description": "Actualizar el tablero de riesgos.",
+    "owner": { "name": "Rubén Gómez", "email": "organizer@example.com" },
+    "due": { "date": "2026-11-06", "raw": "esta semana" },
+    "priority": "media",
+    "sourceQuote": "Yo me encargo de actualizar el tablero de riesgos.",
+    "confidence": "alta",
+    "status": "en_progreso",
+    "updatedAt": "2026-11-04T15:00:00Z",
+    "history": [
+      { "at": "2026-10-20T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-11-04T15:00:00Z", "status": "en_progreso", "note": "Riesgos priorizados." }
+    ]
+  },
+  {
+    "id": "T-113",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Enviar métricas de latencia",
+    "description": "Enviar métricas de latencia.",
+    "owner": { "name": "Camila Ríos", "email": "camila.rios@example.com" },
+    "due": { "date": "2026-11-03", "raw": "hoy" },
+    "priority": "alta",
+    "sourceQuote": "Camila enviará las métricas de latencia hoy.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-20T15:00:00Z",
+    "history": [
+      { "at": "2026-10-20T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-114",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Documentar la arquitectura del reporte",
+    "description": "Documentar la arquitectura del reporte.",
+    "owner": { "name": "sin asignar", "email": null },
+    "due": { "date": null, "raw": null },
+    "priority": "baja",
+    "sourceQuote": "Falta documentar la arquitectura del reporte.",
+    "confidence": "baja",
+    "status": "abierta",
+    "updatedAt": "2026-10-18T15:00:00Z",
+    "history": [
+      { "at": "2026-10-18T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-115",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Revisar contratos de proveedores",
+    "description": "Revisar contratos de proveedores.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-10-30", "raw": "30 de octubre" },
+    "priority": "media",
+    "sourceQuote": "Luis revisa los contratos de proveedores.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-21T15:00:00Z",
+    "history": [
+      { "at": "2026-10-01T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-116",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Preparar demo para el cliente",
+    "description": "Preparar demo para el cliente.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-11-10", "raw": "10 de noviembre" },
+    "priority": "alta",
+    "sourceQuote": "Luis prepara la demo para el cliente.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-28T15:00:00Z",
+    "history": [
+      { "at": "2026-10-15T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-117",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Validar exportación de reportes",
+    "description": "Validar exportación de reportes.",
+    "owner": { "name": "sin asignar", "email": null },
+    "due": { "date": "2026-10-28", "raw": "28 de octubre" },
+    "priority": "media",
+    "sourceQuote": "Hay que validar la exportación de reportes.",
+    "confidence": "baja",
+    "status": "abierta",
+    "updatedAt": "2026-10-19T15:00:00Z",
+    "history": [
+      { "at": "2026-10-10T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-118",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Revisar accesos de soporte",
+    "description": "Revisar accesos de soporte.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": null, "raw": null },
+    "priority": "baja",
+    "sourceQuote": "Luis revisa los accesos de soporte.",
+    "confidence": "media",
+    "status": "abierta",
+    "updatedAt": "2026-11-01T15:00:00Z",
+    "history": [
+      { "at": "2026-10-25T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-119",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Actualizar plantilla de incidencias",
+    "description": "Actualizar plantilla de incidencias.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-11-15", "raw": "15 de noviembre" },
+    "priority": "media",
+    "sourceQuote": "Luis actualiza la plantilla de incidencias.",
+    "confidence": "alta",
+    "status": "en_progreso",
+    "updatedAt": "2026-11-05T10:00:00Z",
+    "history": [
+      { "at": "2026-10-10T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." },
+      { "at": "2026-11-05T10:00:00Z", "status": "en_progreso", "note": "Primera versión revisada." }
+    ]
+  },
+  {
+    "id": "T-120",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Cerrar hallazgos de auditoría",
+    "description": "Cerrar hallazgos de auditoría.",
+    "owner": { "name": "Ana Torres", "email": "ana.torres@example.com" },
+    "due": { "date": "2026-10-25", "raw": "25 de octubre" },
+    "priority": "alta",
+    "sourceQuote": "Ana cierra los hallazgos de auditoría.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-15T15:00:00Z",
+    "history": [
+      { "at": "2026-09-30T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  },
+  {
+    "id": "T-121",
+    "meetingId": "2026-10-20-planificacion",
+    "summary": "Revisar alertas de monitoreo",
+    "description": "Revisar alertas de monitoreo.",
+    "owner": { "name": "Luis Mejía", "email": "luis.mejia@example.com" },
+    "due": { "date": "2026-11-14", "raw": "14 de noviembre" },
+    "priority": "media",
+    "sourceQuote": "Luis revisa las alertas de monitoreo.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-10-29T15:00:00Z",
+    "history": [
+      { "at": "2026-10-29T15:00:00Z", "status": "abierta", "note": "Creada desde la reunión." }
+    ]
+  }
+]
