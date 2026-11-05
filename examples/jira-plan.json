@@ -1,0 +1,155 @@
+{
+  "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+  "projectKey": "DEMO",
+  "generatedAt": "2026-11-05T07:56:53.551Z",
+  "issues": [
+    {
+      "clientRef": "T-001",
+      "summary": "Revisar el mapeo de códigos",
+      "description": "Revisar el mapeo de códigos. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Ana Torres\nFecha objetivo: 2026-11-10\nCita: \"Ana se encarga de revisar el mapeo de códigos antes del 10 de noviembre.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Ana Torres",
+        "email": "ana.torres@example.com"
+      },
+      "due": "2026-11-10",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Ana se encarga de revisar el mapeo de códigos antes del 10 de noviembre."
+    },
+    {
+      "clientRef": "T-002",
+      "summary": "Preparar el plan de migración del esquema de facturación",
+      "description": "Preparar el plan de migración del esquema de facturación. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Luis Mejía\nFecha objetivo: 2026-11-20\nCita: \"TAREA: preparar el plan de migración del esquema de facturación — responsable: Luis — fecha: 20 de noviembre\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Luis Mejía",
+        "email": "luis.mejia@example.com"
+      },
+      "due": "2026-11-20",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "TAREA: preparar el plan de migración del esquema de facturación — responsable: Luis — fecha: 20 de noviembre"
+    },
+    {
+      "clientRef": "T-003",
+      "summary": "Revisar los permisos de la API",
+      "description": "Revisar los permisos de la API. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Camila Ríos\nFecha objetivo: 2026-11-06\nCita: \"Camila revisará los permisos de la API antes del viernes.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Camila Ríos",
+        "email": "camila.rios@example.com"
+      },
+      "due": "2026-11-06",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Camila revisará los permisos de la API antes del viernes."
+    },
+    {
+      "clientRef": "T-004",
+      "summary": "Documentar el rollback del pipeline de ETL",
+      "description": "Documentar el rollback del pipeline de ETL. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: sin asignar\nFecha objetivo: sin fecha\nCita: \"Hay que documentar el rollback del pipeline de ETL.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "sin asignar",
+        "email": null
+      },
+      "due": null,
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Hay que documentar el rollback del pipeline de ETL."
+    },
+    {
+      "clientRef": "T-005",
+      "summary": "Preparar el diagrama de arquitectura",
+      "description": "Preparar el diagrama de arquitectura. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Camila Ríos\nFecha objetivo: sin fecha\nCita: \"Puedo preparar el diagrama de arquitectura.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Camila Ríos",
+        "email": "camila.rios@example.com"
+      },
+      "due": null,
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Puedo preparar el diagrama de arquitectura."
+    },
+    {
+      "clientRef": "T-006",
+      "summary": "Coordinar la prueba con el cliente",
+      "description": "Coordinar la prueba con el cliente. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Diego Salazar\nFecha objetivo: 2026-11-18\nCita: \"Diego va a coordinar la prueba con el cliente el 18 de noviembre.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Diego Salazar",
+        "email": null
+      },
+      "due": "2026-11-18",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Diego va a coordinar la prueba con el cliente el 18 de noviembre."
+    },
+    {
+      "clientRef": "T-007",
+      "summary": "Preparar el guion de capacitación",
+      "description": "Preparar el guion de capacitación. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Ana Torres\nFecha objetivo: 2026-11-13\nCita: \"Ana preparará el guion de capacitación la próxima semana.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Ana Torres",
+        "email": "ana.torres@example.com"
+      },
+      "due": "2026-11-13",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Ana preparará el guion de capacitación la próxima semana."
+    },
+    {
+      "clientRef": "T-008",
+      "summary": "Definir los criterios de aceptación del reporte",
+      "description": "Definir los criterios de aceptación del reporte. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Luis Mejía\nFecha objetivo: 2026-11-12\nCita: \"Luis definirá los criterios de aceptación del reporte el 12 de noviembre.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Luis Mejía",
+        "email": "luis.mejia@example.com"
+      },
+      "due": "2026-11-12",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Luis definirá los criterios de aceptación del reporte el 12 de noviembre."
+    },
+    {
+      "clientRef": "T-009",
+      "summary": "Enviar las métricas de latencia",
+      "description": "Enviar las métricas de latencia. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.\n\nResponsable: Camila Ríos\nFecha objetivo: 2026-11-03\nCita: \"Camila enviará las métricas de latencia hoy; es urgente.\"\nReunión: Revisión de sprint — Plataforma de salud (2026-11-03)",
+      "issueType": "Task",
+      "assignee": {
+        "name": "Camila Ríos",
+        "email": "camila.rios@example.com"
+      },
+      "due": "2026-11-03",
+      "labels": [
+        "meeting-followup",
+        "mtg-2026-11-03-revision-de-sprint-plataforma"
+      ],
+      "sourceQuote": "Camila enviará las métricas de latencia hoy; es urgente."
+    }
+  ],
+  "warnings": [
+    "Sin correo para \"sin asignar\" en \"Documentar el rollback del pipeline de ETL\"; Jira necesita un accountId antes de asignar.",
+    "Sin correo para \"Diego Salazar\" en \"Coordinar la prueba con el cliente\"; Jira necesita un accountId antes de asignar."
+  ]
+}

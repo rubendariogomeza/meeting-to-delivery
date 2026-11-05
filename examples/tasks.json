@@ -1,0 +1,236 @@
+[
+  {
+    "id": "T-001",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Revisar el mapeo de códigos",
+    "description": "Revisar el mapeo de códigos. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Ana Torres",
+      "email": "ana.torres@example.com"
+    },
+    "due": {
+      "date": "2026-11-10",
+      "raw": "10 de noviembre"
+    },
+    "priority": "media",
+    "sourceQuote": "Ana se encarga de revisar el mapeo de códigos antes del 10 de noviembre.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-002",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Preparar el plan de migración del esquema de facturación",
+    "description": "Preparar el plan de migración del esquema de facturación. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Luis Mejía",
+      "email": "luis.mejia@example.com"
+    },
+    "due": {
+      "date": "2026-11-20",
+      "raw": "20 de noviembre"
+    },
+    "priority": "media",
+    "sourceQuote": "TAREA: preparar el plan de migración del esquema de facturación — responsable: Luis — fecha: 20 de noviembre",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-003",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Revisar los permisos de la API",
+    "description": "Revisar los permisos de la API. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Camila Ríos",
+      "email": "camila.rios@example.com"
+    },
+    "due": {
+      "date": "2026-11-06",
+      "raw": "viernes"
+    },
+    "priority": "media",
+    "sourceQuote": "Camila revisará los permisos de la API antes del viernes.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-004",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Documentar el rollback del pipeline de ETL",
+    "description": "Documentar el rollback del pipeline de ETL. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "sin asignar",
+      "email": null
+    },
+    "due": {
+      "date": null,
+      "raw": null
+    },
+    "priority": "media",
+    "sourceQuote": "Hay que documentar el rollback del pipeline de ETL.",
+    "confidence": "baja",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-005",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Preparar el diagrama de arquitectura",
+    "description": "Preparar el diagrama de arquitectura. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Camila Ríos",
+      "email": "camila.rios@example.com"
+    },
+    "due": {
+      "date": null,
+      "raw": null
+    },
+    "priority": "media",
+    "sourceQuote": "Puedo preparar el diagrama de arquitectura.",
+    "confidence": "media",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-006",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Coordinar la prueba con el cliente",
+    "description": "Coordinar la prueba con el cliente. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Diego Salazar",
+      "email": null
+    },
+    "due": {
+      "date": "2026-11-18",
+      "raw": "18 de noviembre"
+    },
+    "priority": "media",
+    "sourceQuote": "Diego va a coordinar la prueba con el cliente el 18 de noviembre.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-007",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Preparar el guion de capacitación",
+    "description": "Preparar el guion de capacitación. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Ana Torres",
+      "email": "ana.torres@example.com"
+    },
+    "due": {
+      "date": "2026-11-13",
+      "raw": "la proxima semana"
+    },
+    "priority": "media",
+    "sourceQuote": "Ana preparará el guion de capacitación la próxima semana.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-008",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Definir los criterios de aceptación del reporte",
+    "description": "Definir los criterios de aceptación del reporte. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Luis Mejía",
+      "email": "luis.mejia@example.com"
+    },
+    "due": {
+      "date": "2026-11-12",
+      "raw": "12 de noviembre"
+    },
+    "priority": "media",
+    "sourceQuote": "Luis definirá los criterios de aceptación del reporte el 12 de noviembre.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  },
+  {
+    "id": "T-009",
+    "meetingId": "2026-11-03-revision-de-sprint-plataforma-de-salud",
+    "summary": "Enviar las métricas de latencia",
+    "description": "Enviar las métricas de latencia. Compromiso de \"Revisión de sprint — Plataforma de salud\" del 2026-11-03.",
+    "owner": {
+      "name": "Camila Ríos",
+      "email": "camila.rios@example.com"
+    },
+    "due": {
+      "date": "2026-11-03",
+      "raw": "hoy"
+    },
+    "priority": "alta",
+    "sourceQuote": "Camila enviará las métricas de latencia hoy; es urgente.",
+    "confidence": "alta",
+    "status": "abierta",
+    "updatedAt": "2026-11-05T07:56:53.534Z",
+    "history": [
+      {
+        "at": "2026-11-05T07:56:53.534Z",
+        "status": "abierta",
+        "note": "Creada desde la reunión."
+      }
+    ]
+  }
+]
