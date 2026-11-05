@@ -117,7 +117,7 @@ src/
   commands/    runMeeting, runBrief
   cli.ts       command line
 fixtures/      synthetic transcript, attendees and 3 weeks of task history
-tests/         41 tests over the pure logic and an end-to-end run
+tests/         pure-logic and end-to-end tests
 project/       the method: brief, architecture, feasibility, security review, decisions
 ```
 
